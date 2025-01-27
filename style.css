@@ -1,0 +1,11 @@
+.main_todo_div {
+    width: 36rem;
+    display: grid;
+    grid-template-columns: 1fr 0.3fr;
+    align-items: center;
+    height: auto;
+}
+
+button {
+    height: 5rem;
+}
